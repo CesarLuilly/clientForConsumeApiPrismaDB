@@ -24,3 +24,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Probada y corrida con la version de `node 16.15.1` version estable. 
+
+### Usa el siguiente repositorio de backend.
+[RepoBackend](https://github.com/CesarLuilly/prismadb)
